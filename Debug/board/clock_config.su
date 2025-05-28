@@ -1,0 +1,7 @@
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_clock.h:751:20:CLOCK_SetSimSafeDivs	8	static
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_clock.h:1082:20:CLOCK_SetXtal0Freq	16	static
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_smc.h:283:20:SMC_SetPowerModeProtection	16	static
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_smc.h:302:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:98:13:CLOCK_CONFIG_SetFllExtRefDiv	16	static
+../board/clock_config.c:182:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:275:6:BOARD_BootClockVLPR	8	static

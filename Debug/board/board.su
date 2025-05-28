@@ -1,0 +1,2 @@
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_clock.h:626:20:CLOCK_SetLpsci0Clock	16	static
+../board/board.c:44:6:BOARD_InitDebugConsole	16	static

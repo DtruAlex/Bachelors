@@ -1,0 +1,8 @@
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_clock.h:590:20:CLOCK_EnableClock	24	static
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_port.h:256:20:PORT_SetPinConfig	32	static
+D:\College\Theses\Workspace NXP\Thesis_cmsis_driver_examples_i2c_interrupt_transfer_Test\drivers/fsl_port.h:321:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:68:6:BOARD_InitPins	8	static
+../board/pin_mux.c:100:6:I2C0_InitPins	16	static
+../board/pin_mux.c:140:6:I2C0_DeinitPins	8	static
+../board/pin_mux.c:167:6:I2C1_InitPins	16	static
+../board/pin_mux.c:207:6:I2C1_DeinitPins	8	static
